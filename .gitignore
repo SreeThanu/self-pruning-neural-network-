@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+# results/
+*.egg-info/
+.DS_Store
+data/
+
+# Local dev
+.claude/
+CLAUDE.md
+main.ipynb
+docs/superpowers/
